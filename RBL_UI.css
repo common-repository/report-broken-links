@@ -1,0 +1,23 @@
+/*** To apply an attribute to all elements corner ***/
+.ui-corner-all{}
+
+/*** This class is for dialog wrapper element ***/
+.ui-dialog{border-radius:7px;background: #999;padding: 6px;}
+
+/*** This class used for content wrapper ***/
+.ui-dialog-content{}
+
+/*** Styles for title span ***/
+.ui-dialog-title{}
+
+/*** Styles for titlebar wrapper ***/
+.ui-dialog-titlebar{text-align:center;color:#fff;margin-bottom:7px;}
+
+/*** Styles of titlebar-close wrapper ***/
+.ui-dialog-titlebar-close{display:none;}
+
+/*** titlebar-close icon class ***/
+.ui-icon{}
+
+/*** titlebar-close thick icon class ***/
+.ui-icon-closethick{}

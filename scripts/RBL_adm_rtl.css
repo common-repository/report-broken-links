@@ -1,0 +1,9 @@
+.header h2{padding-right:15px;}
+.main{margin-left:0;margin-right:10px;}
+.main hr{margin:-10px -5px 10px 0;}
+.main h2{margin-left:0;margin-right:-15px;}
+.main div php{margin-left: 7px;}
+table.reports{direction:rtl;}
+table.reports tr td.brd, table.reports tr td.brds{border-left:0;}
+table.reports tr td.brd{border-right:1px dashed #ADADAD;}
+table.reports tr td.brds{border-right:1px solid #ADADAD;}

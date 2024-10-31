@@ -1,0 +1,24 @@
+/*** To apply an attribute to all elements corner ***/
+.ui-corner-all{}
+
+/*** This class is for dialog wrapper element ***/
+.ui-dialog{border-radius:7px;background: #999;padding: 6px;}
+
+/*** This class used for content wrapper ***/
+.ui-dialog-content{}
+
+/*** Styles for title text ***/
+.ui-dialog-title{}
+
+/*** Styles for titlebar wrapper ***/
+.ui-dialog-titlebar{height:21px;text-align:center;color:#fff;margin-bottom: 3px;border-bottom: 1px solid #505050;}
+
+/*** Styles of close-button wrapper ***/
+.ui-button{padding: 0;float: right;background: none;border: none;height: 17px;}
+.ui-button:hover{background: none;}
+
+/*** close-button icon class ***/
+.ui-icon-closethick{background: url(../imgs/ui_close.png);display: inline-block;width: 16px;height: 16px;}
+
+/*** close-button close text class ***/
+.ui-button-text{display:none;}

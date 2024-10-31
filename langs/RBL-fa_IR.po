@@ -1,0 +1,255 @@
+# Copyright (C) 2012 
+# This file is distributed under the same license as the  package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Report Broken Links\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/report-broken-links\n"
+"POT-Creation-Date: 2013-08-09 22:27+0330\n"
+"PO-Revision-Date: 2013-08-09 22:27+0330\n"
+"Last-Translator: RaminMT <RaminMT007@gmail.com>\n"
+"Language-Team: RaminMT <RaminMT007@gmail.com>\n"
+"Language: Farsi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: C:\\xampp\\htdocs\\wp\\wp-content\\plugins\\report-broken-"
+"links\n"
+"X-Poedit-SearchPath-0: C:\\xampp\\htdocs\\wp\\wp-content\\plugins\\report-"
+"broken-links\n"
+
+#: C:\xampp\htdocs\wp\wp-content\plugins\report-broken-links/RBL_Admin.php:14
+msgid "See All Reports"
+msgstr "مشاهده همه گزارشات"
+
+#: C:\xampp\htdocs\wp\wp-content\plugins\report-broken-links/RBL_Admin.php:21
+msgid "10 Recent Reports"
+msgstr "10 گزارش اخیر"
+
+#: C:\xampp\htdocs\wp\wp-content\plugins\report-broken-links/RBL_Admin.php:26
+#: C:\xampp\htdocs\wp\wp-content\plugins\report-broken-links/ReportBrokenLinks-options.php:7
+msgid "Broken Links Reporter"
+msgstr "گزارشگر لینکهای خراب"
+
+#: C:\xampp\htdocs\wp\wp-content\plugins\report-broken-links/RBL_Admin.php:27
+msgid "Reports"
+msgstr "گزارشها"
+
+#: C:\xampp\htdocs\wp\wp-content\plugins\report-broken-links/RBL_Admin.php:28
+msgid "Setting"
+msgstr "تنظیمات"
+
+#: C:\xampp\htdocs\wp\wp-content\plugins\report-broken-links/RBL_Admin.php:29
+#: C:\xampp\htdocs\wp\wp-content\plugins\report-broken-links/ReportBrokenLinks-options.php:105
+msgid "How To Use"
+msgstr "آموزش استفاده"
+
+#: C:\xampp\htdocs\wp\wp-content\plugins\report-broken-links/RBL_Admin.php:30
+#: C:\xampp\htdocs\wp\wp-content\plugins\report-broken-links/ReportBrokenLinks-options.php:125
+msgid "About Plugin"
+msgstr "درباره افزونه"
+
+#: C:\xampp\htdocs\wp\wp-content\plugins\report-broken-links/RBL_Admin.php:31
+msgid "Support"
+msgstr "پشتیبانی"
+
+#: C:\xampp\htdocs\wp\wp-content\plugins\report-broken-links/RBL_Ajax.php:53
+msgid "Selected Report(s) Deleted Successfully"
+msgstr "گزارشهای انتخاب شده با موفقیت پاک شدند"
+
+#: C:\xampp\htdocs\wp\wp-content\plugins\report-broken-links/ReportBrokenLinks-options.php:15
+#: C:\xampp\htdocs\wp\wp-content\plugins\report-broken-links/ReportBrokenLinks-options.php:21
+msgid "Reported Links"
+msgstr "لینکهای گزارش شده"
+
+#: C:\xampp\htdocs\wp\wp-content\plugins\report-broken-links/ReportBrokenLinks-options.php:19
+msgid "Reporter Mail"
+msgstr "ایمیل گزارش دهنده"
+
+#: C:\xampp\htdocs\wp\wp-content\plugins\report-broken-links/ReportBrokenLinks-options.php:20
+msgid "Description"
+msgstr "توضیحات شما"
+
+#: C:\xampp\htdocs\wp\wp-content\plugins\report-broken-links/ReportBrokenLinks-options.php:31
+msgid "Delete"
+msgstr "پاک کردن"
+
+#: C:\xampp\htdocs\wp\wp-content\plugins\report-broken-links/ReportBrokenLinks-options.php:37
+msgid "Delete Selected Reports"
+msgstr "پاکسازی انتخاب شده ها"
+
+#: C:\xampp\htdocs\wp\wp-content\plugins\report-broken-links/ReportBrokenLinks-options.php:74
+msgid "Button Appearance"
+msgstr "ظاهر دکمه"
+
+#: C:\xampp\htdocs\wp\wp-content\plugins\report-broken-links/ReportBrokenLinks-options.php:76
+msgid "Button Caption"
+msgstr "عنوان دکمه"
+
+#: C:\xampp\htdocs\wp\wp-content\plugins\report-broken-links/ReportBrokenLinks-options.php:77
+msgid "Button Color"
+msgstr "رنگ دکمه"
+
+#: C:\xampp\htdocs\wp\wp-content\plugins\report-broken-links/ReportBrokenLinks-options.php:78
+msgid "Text Color"
+msgstr "رنگ متن دکمه"
+
+#: C:\xampp\htdocs\wp\wp-content\plugins\report-broken-links/ReportBrokenLinks-options.php:79
+msgid "Button Custom CSS"
+msgstr "استایل سفارشی"
+
+#: C:\xampp\htdocs\wp\wp-content\plugins\report-broken-links/ReportBrokenLinks-options.php:82
+msgid "Description Box"
+msgstr "جعبه توضیحات"
+
+#: C:\xampp\htdocs\wp\wp-content\plugins\report-broken-links/ReportBrokenLinks-options.php:84
+msgid "Show Description Box"
+msgstr "نمایش جعبه"
+
+#: C:\xampp\htdocs\wp\wp-content\plugins\report-broken-links/ReportBrokenLinks-options.php:85
+msgid "Email Field Text"
+msgstr "عنوان فیلد ایمیل"
+
+#: C:\xampp\htdocs\wp\wp-content\plugins\report-broken-links/ReportBrokenLinks-options.php:86
+msgid "Description Field Text"
+msgstr "عنوان فیلد توضیحات"
+
+#: C:\xampp\htdocs\wp\wp-content\plugins\report-broken-links/ReportBrokenLinks-options.php:87
+msgid "Submit Button Text"
+msgstr "عنوان دکمه گزارش"
+
+#: C:\xampp\htdocs\wp\wp-content\plugins\report-broken-links/ReportBrokenLinks-options.php:88
+msgid "Description Box Title"
+msgstr "عنوان جعبه  توضیحات"
+
+#: C:\xampp\htdocs\wp\wp-content\plugins\report-broken-links/ReportBrokenLinks-options.php:89
+msgid "Description Box Custom CSS"
+msgstr "استایل سفارشی جعبه"
+
+#: C:\xampp\htdocs\wp\wp-content\plugins\report-broken-links/ReportBrokenLinks-options.php:92
+msgid "Other Options"
+msgstr "سایر تنظیمات"
+
+#: C:\xampp\htdocs\wp\wp-content\plugins\report-broken-links/ReportBrokenLinks-options.php:94
+msgid "Thanks Message"
+msgstr "متن تشکر"
+
+#: C:\xampp\htdocs\wp\wp-content\plugins\report-broken-links/ReportBrokenLinks-options.php:95
+msgid "Use \"\\r\\n\" to break the line in message box"
+msgstr "از \"\\r\\n\" برای رفتن به خط بعد استفاده کنید"
+
+#: C:\xampp\htdocs\wp\wp-content\plugins\report-broken-links/ReportBrokenLinks-options.php:99
+msgid "Save Setting"
+msgstr "ذخیره تنظیمات"
+
+#: C:\xampp\htdocs\wp\wp-content\plugins\report-broken-links/ReportBrokenLinks-options.php:107
+msgid "You have 3 option to use this plugin"
+msgstr "شما برای استفاده از این افزونه دو انتخاب دارید"
+
+#: C:\xampp\htdocs\wp\wp-content\plugins\report-broken-links/ReportBrokenLinks-options.php:108
+msgid ""
+"Open Your template single.php file and place the following code everywhere "
+"You want to see the button"
+msgstr ""
+"فایل single.php قالب خود را باز کرده و کد زیر را در جایی که دوست دارید دکمه "
+"را ببینید قرار دهید"
+
+#: C:\xampp\htdocs\wp\wp-content\plugins\report-broken-links/ReportBrokenLinks-options.php:110
+msgid "Or anywhere in Your template create a button with \"RBL_Element\" id"
+msgstr ""
+"یا در جای مناسبی در قالب دکمه ای بسازید و id آن را \"RBL_Element\" قرار دهید"
+
+#: C:\xampp\htdocs\wp\wp-content\plugins\report-broken-links/ReportBrokenLinks-options.php:111
+msgid "As an alternate or generally You can use RBL shortcode."
+msgstr "به طور کلی و یا برای جایگزین میتوانید از شورت کد افزونه استفاده کنید"
+
+#: C:\xampp\htdocs\wp\wp-content\plugins\report-broken-links/ReportBrokenLinks-options.php:112
+msgid ""
+"To do this use [RBL url=\"Link to be reported\"]Caption Of Button[/RBL] \"url"
+"\" attribute is optional and if You don't define It, It'll use the page url "
+"and also caption can be empty in this way the caption will be \"Report Link\""
+msgstr ""
+"برای اینکار از کد [RBL url=\"لینک\"]عنوان دکمه[/RBL] استفاده کنید ویژگی \"url"
+"\" دلخواه میباشد و اگر این فیلد را خالی بگذارید به عنوان پیش فرض لینک صفحه "
+"را گزارش میکند همچنین اگر عنوان دکمه خالی باشد از عبارت \"Report Link\" "
+"استفاده خواهد کرد"
+
+#: C:\xampp\htdocs\wp\wp-content\plugins\report-broken-links/ReportBrokenLinks-options.php:114
+msgid ""
+"In setting page You can define button caption & color & text color or input "
+"Your custom CSS style for the default button."
+msgstr ""
+"در صفحه تنظیمات شما میتوانید رنگ، متن، رنگ متن و تنظیمات دیگری را برای دکمه "
+"پیشفرض تعیین کنید"
+
+#: C:\xampp\htdocs\wp\wp-content\plugins\report-broken-links/ReportBrokenLinks-options.php:115
+msgid ""
+"There are some other setting available for description box such as: title, "
+"description, custom style and There is another field called \"email\" but "
+"you can fill It with everything"
+msgstr ""
+"تنظیمات دیگری هم برای جعبه توضیحات وجود دارد مانند: عنوان جعبه، توضیحات، "
+"استایل سفارشی و فیلد دیگری که نام آن \"ایمیل\" است اما شما آزادید هر استفاده "
+"ای از آن کنید"
+
+#: C:\xampp\htdocs\wp\wp-content\plugins\report-broken-links/ReportBrokenLinks-options.php:117
+msgid ""
+"If You need to use image intead of button and Its text, empty the button "
+"caption and in custom css box add the following code:"
+msgstr ""
+"اگر میخواهید که از عکس به جای دکمه و متن آن استفاده کنید، ابتدا متن عنوان "
+"دکمه را پاک کنید و از کد زیر در قسمت استایل سفارشی استفاده کنید:"
+
+#: C:\xampp\htdocs\wp\wp-content\plugins\report-broken-links/ReportBrokenLinks-options.php:127
+msgid "I hope It makes You satisfy."
+msgstr "امیدوارم این افزونه رضایت بخش باشد."
+
+#: C:\xampp\htdocs\wp\wp-content\plugins\report-broken-links/ReportBrokenLinks-options.php:128
+msgid "Some of the plugin features"
+msgstr "برخی از ویژگی های افزونه"
+
+#: C:\xampp\htdocs\wp\wp-content\plugins\report-broken-links/ReportBrokenLinks-options.php:129
+msgid "High security"
+msgstr "امن"
+
+#: C:\xampp\htdocs\wp\wp-content\plugins\report-broken-links/ReportBrokenLinks-options.php:130
+msgid "Simple to use with shortcode, jQuery selector and default button"
+msgstr "سادگی در استفاده با شورت کد، سلکتور جی کوئری و دکمه پیشفرض"
+
+#: C:\xampp\htdocs\wp\wp-content\plugins\report-broken-links/ReportBrokenLinks-options.php:131
+msgid "Ajax-Based"
+msgstr "برپایه ای-جکس"
+
+#: C:\xampp\htdocs\wp\wp-content\plugins\report-broken-links/ReportBrokenLinks-options.php:132
+msgid "Fully customizable"
+msgstr "قابل شخصی سازی کامل"
+
+#: C:\xampp\htdocs\wp\wp-content\plugins\report-broken-links/ReportBrokenLinks-options.php:133
+msgid "Fast and light"
+msgstr "سریع و سبک"
+
+#: C:\xampp\htdocs\wp\wp-content\plugins\report-broken-links/ReportBrokenLinks-options.php:134
+msgid "Description Box to get email/name of clients and their descriptions"
+msgstr "جعبه توضیحات برای دریافت نام یا ایمیل کاربران به همراه توضیحاتشان"
+
+#: C:\xampp\htdocs\wp\wp-content\plugins\report-broken-links/ReportBrokenLinks-options.php:140
+msgid "About Programmer"
+msgstr "درباره برنامه نویس"
+
+#: C:\xampp\htdocs\wp\wp-content\plugins\report-broken-links/ReportBrokenLinks-options.php:142
+msgid "Name"
+msgstr "نام"
+
+#: C:\xampp\htdocs\wp\wp-content\plugins\report-broken-links/ReportBrokenLinks-options.php:143
+msgid "Site"
+msgstr "سایت"
+
+#: C:\xampp\htdocs\wp\wp-content\plugins\report-broken-links/ReportBrokenLinks-options.php:144
+msgid "Email"
+msgstr "رایانامه"
+
+#: C:\xampp\htdocs\wp\wp-content\plugins\report-broken-links/ReportBrokenLinks-options.php:145
+msgid "Feel free to contact! Any points and suggestions will be appreciated :X"
+msgstr "اگر نکته یا پیشنهادی وجود دارد حتما با من در میان بگذارید"
